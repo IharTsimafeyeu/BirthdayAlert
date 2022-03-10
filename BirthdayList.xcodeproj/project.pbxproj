@@ -16,7 +16,6 @@
 		352DC62227D376B500012339 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 352DC62027D376B500012339 /* LaunchScreen.storyboard */; };
 		352DC62A27D37BC200012339 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 352DC62927D37BC200012339 /* TableViewCell.swift */; };
 		352DC62C27D37EAA00012339 /* SelectBirthdayController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 352DC62B27D37EA900012339 /* SelectBirthdayController.swift */; };
-		352DC63227D5465D00012339 /* MainTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 352DC63127D5465D00012339 /* MainTextField.swift */; };
 		35A47FBB27D65F8100CC797F /* +UITextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35A47FBA27D65F8100CC797F /* +UITextField.swift */; };
 		35A47FBD27D6666200CC797F /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35A47FBC27D6666200CC797F /* Model.swift */; };
 		35D9176B27D88FB000C18D64 /* CoreDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35D9176A27D88FB000C18D64 /* CoreDataManager.swift */; };
@@ -34,7 +33,6 @@
 		352DC62327D376B500012339 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		352DC62927D37BC200012339 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 		352DC62B27D37EA900012339 /* SelectBirthdayController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectBirthdayController.swift; sourceTree = "<group>"; };
-		352DC63127D5465D00012339 /* MainTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTextField.swift; sourceTree = "<group>"; };
 		35A47FBA27D65F8100CC797F /* +UITextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "+UITextField.swift"; sourceTree = "<group>"; };
 		35A47FBC27D6666200CC797F /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 		35D9176A27D88FB000C18D64 /* CoreDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataManager.swift; sourceTree = "<group>"; };
@@ -95,7 +93,6 @@
 		352DC62E27D37EDD00012339 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				352DC63127D5465D00012339 /* MainTextField.swift */,
 				352DC61827D376B200012339 /* Main.storyboard */,
 				352DC62F27D37EE800012339 /* Cells */,
 			);
@@ -214,7 +211,6 @@
 				352DC61327D376B200012339 /* AppDelegate.swift in Sources */,
 				352DC62C27D37EAA00012339 /* SelectBirthdayController.swift in Sources */,
 				352DC61527D376B200012339 /* SceneDelegate.swift in Sources */,
-				352DC63227D5465D00012339 /* MainTextField.swift in Sources */,
 				35D9176B27D88FB000C18D64 /* CoreDataManager.swift in Sources */,
 				35A47FBB27D65F8100CC797F /* +UITextField.swift in Sources */,
 			);
